@@ -1,0 +1,25 @@
+{
+  "name": "blahaj-bot",
+  "version": "1.0.0",
+  "description": "This is a simple code blahaj bot",
+  "main": "App.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLAHAJGang/BLAHAJ-BOT.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BLAHAJGang/BLAHAJ-BOT/issues"
+  },
+  "homepage": "https://github.com/BLAHAJGang/BLAHAJ-BOT#readme"
+}
